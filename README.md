@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.webp"/>
+  <img src="./logo.png"/>
   <h1 color="blue">
     <a href="https://github.com/NiMA-SO">NiMA SOHRABi</a>
   </h1>
