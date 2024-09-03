@@ -125,10 +125,14 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nima-so&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-so&theme=react&hide_border=false" width="100%"/>
     </td>
   </tr>
+  
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-so&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
