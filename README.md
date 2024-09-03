@@ -118,3 +118,34 @@
 </div>
 
 
+
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nima-so&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nima-so&theme=react&hide_border=false" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-so&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nima-so&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nima-so&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nima-so&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
