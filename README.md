@@ -97,8 +97,8 @@
     </td>
   </tr>
 
-  
 </table>
+<!--   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,npm,sass,tailwind,bootstrap,vite,react,next,vercel,regex,typescript,nodejs,nestjs,cs,&perline=6"/> -->
 
 
 
