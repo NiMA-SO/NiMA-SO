@@ -140,7 +140,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nima-so&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=nima-so&limit=5&theme=dark&combine_all_yearly_contributions=true" width="80%"/>
 </div>
 
 ## 🏆 GitHub Trophies
