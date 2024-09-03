@@ -4,14 +4,20 @@
     <a href="https://github.com/NiMA-SO">NiMA SOHRABi</a>
   </h1>
 </div>
-<p align="center">
- This is NiMA SOHRABi ! A Junior Frontend Programmer
+
+
+# 💫 About Me:
+
+
+<p>
+<!--  This is NiMA SOHRABi ! A Junior Frontend Programmer -->
+  Hi, I'm a creative website developer and I put projects on GitHub and put them up that you can use on your website, thanks for your support. Good luck.
 </p>
 
 <br/>
 
-<h2 align="center">
-  💻 Tech Stack 💻
+<h2>
+  💻 Tech Stack :
 </h2>
 
 <table align="center">
@@ -107,20 +113,12 @@
 
 <br/>
   
-<h2 align="center">
-  🌐 Socials 🌐
-</h2>
 
-
-<div align="center">
-  <a href="https://instagram.com/nima.so.dev" rel="nofollow" ><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://t.me/nimaso_dev" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
-</div>
 
 
 
 # 📊 GitHub Stats:
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nima-so&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
@@ -140,16 +138,34 @@
   </tr>
 </table>
 
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nima-so&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nima-so&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nima-so&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nima-so&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+
+
+<h2 align="center">
+  🌐 Socials 🌐
+</h2>
+
+
+<div align="center">
+  <a href="https://instagram.com/nima.so.dev" rel="nofollow" ><img src="https://camo.githubusercontent.com/94b50d6a71e67a79d85b051d8af86ad7cc541a7304e6db4825430830e9a43383/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://t.me/nimaso_dev" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
