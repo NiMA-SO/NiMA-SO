@@ -10,6 +10,7 @@
 <h2>
   💻 Tech Stack :
 </h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,npm,sass,tailwind,bootstrap,vite,react,next,vercel,regex,typescript,nodejs,nestjs,cs"/>
 <h2>
   🌐 Socials :
 </h2>
