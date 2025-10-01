@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./profile.png"/>
   <h1 color="blue">
     <a href="https://github.com/NiMA-SO">NiMA SOHRABi</a>
   </h1>
